@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Akshat073/Akshat073/blob/main/sung-jin-woo-solo-leveling-season-2.gif"><img width="400" src="https://github.com/Akshat073/Akshat073/blob/main/sung-jin-woo-solo-leveling-season-2.gif"  title="ARISE BY Akshat" ref="https://www.instagram.com/fahad.khan.18/?hl=en"></a>
+  <a href="https://github.com/Akshat073/Akshat073/blob/main/To%20the%20Next%20Target.mp4"><img width="400" src="https://github.com/Akshat073/Akshat073/blob/main/sung-jin-woo-solo-leveling-season-2.gif"  title="ARISE BY Akshat" ref="https://www.instagram.com/fahad.khan.18/?hl=en"></a>
 </p>
 💫 About Me:
 🚀 Akshat | Data Science Enthusiast<br>👨‍🎓 B.Tech Data Science student at Lovely Professional University | Passionate about AI, ML & Big Data<br>🔍 Exploring Machine Learning, Data Analytics & Predictive Modeling<br>💡 Solving real-world problems with Python, SQL & C++<br>📊 Building projects in AI, Web Dev & Data Visualization<br>🚀 On a mission to master DSA, System Design & Scalable Solutions<br>📬 Let's connect & collaborate!
